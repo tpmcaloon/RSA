@@ -1,11 +1,11 @@
-#RSA Encryption
+# RSA Encryption
 
 This is a Java program that demonstrates RSA encryption. It allows users to generate public and private keys, encrypt a message using the public key, and decrypt the message using the private key.
 
-##Installation
+## Installation
 To use this program, clone this repository or download the source code files.
 
-##Usage
+## Usage
 Compile and run the RSA.java file to launch the program. The program will display a window with several input fields and buttons.
 
 ##Generate Keys
